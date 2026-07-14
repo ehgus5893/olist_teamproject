@@ -1,5 +1,1 @@
-# olist_teamproject
-## 팀프로젝트
-## 데이터 불균형으로 스모트 진행
-## xgboost, catboost, shap 사용
-## 피쳐중요도 파악
+브라질 이커머스 플랫폼인 olist에서 제공한 로그 공공데이터를 활용한 비즈니스 전략 분석
